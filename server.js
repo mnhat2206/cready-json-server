@@ -26,7 +26,7 @@ server.post('/login', (req, res) => {
     }
 
     return res.status(400).json({
-        errorMessage: 'Missing Username or Password',
+        errorMessage: 'Incorrect username or password.',
     });
 })
 
