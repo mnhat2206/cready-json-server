@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "admin@cready.vn",
+            "password": "1"
+        }
+    ],
+    "token": [
+        {"accessToken": "abB1237678sdghcjbasfgfd"}
+    ]
+}
